@@ -1,0 +1,2 @@
+[2025-08-02 14:23:10] ERROR:  Test failed — ERR_SENSOR_DISCONNECT occurred during test cycle 4.
+Additional Info: Sensor voltage dropped to 0.0V. Check harness and connector.

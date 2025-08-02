@@ -1,0 +1,5 @@
+{
+  "ERR_CAN_TIMEOUT": "CAN message timeout \u00e2\u20ac\u201d check if the expected message is being transmitted.",
+  "ERR_ECU_NOT_RESPONDING": "The ECU did not respond \u00e2\u20ac\u201d check connections and initialization sequence.",
+  "know_error": "Failed to query Mistral: [WinError 2] The system cannot find the file specified"
+}
